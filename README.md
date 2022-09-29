@@ -53,13 +53,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-import humpy as np
+import numpy as np
 L=[int (i) for i in input () .split ()]
 N=1en (L) ; M=max (L)
 x=list ();f=list ()
 for i in range (M+1) :
-C
-= Q
+C= Q
 for j in range (N) :
 if L[j]=-i:
 c=c+1
